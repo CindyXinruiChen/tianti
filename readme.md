@@ -43,3 +43,4 @@ Check on the github repository and files should be there
 ## task 2
 my diagram looks like this
 ![img](https://github.com/CindyXinruiChen/tianti/blob/master/Untitled%20picture.png)
+在这里小说创作是一个主题，人物、地点、时间、情节等是不同的class，每个class里面有具体的对象，比如人物有不同的人物，时间有不同的时间节点，地点有不同的场景，情节又分为不同的情节类别。由此构成了小说整体的主题
