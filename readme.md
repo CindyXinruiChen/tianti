@@ -1,6 +1,6 @@
 Download Eclipse, JDK and Java 8 and then set up the environment variables
 
-![img](/clip_image002.jpg)
+![img](https://github.com/CindyXinruiChen/tianti/blob/master/clip_image002.jpg?raw=true)
 
 ![img](./clip_image004.jpg)
 
