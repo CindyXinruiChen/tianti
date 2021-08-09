@@ -1,6 +1,6 @@
 Download Eclipse, JDK and Java 8 and then set up the environment variables
 
-![img](clip_image002.jpg)
+![img](/clip_image002.jpg)
 
 ![img](./clip_image004.jpg)
 
