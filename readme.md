@@ -37,3 +37,7 @@ Have to input the account and password
  
 
 Check on the github repository and files should be there
+
+## task 2
+my diagram looks like this
+![img](https://github.com/CindyXinruiChen/tianti/blob/master/Untitled%20picture.png)
